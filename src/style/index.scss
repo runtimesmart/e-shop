@@ -1,0 +1,23 @@
+.el-container{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+.el-row{
+  margin-bottom: 20px;
+}
+
+.el-pagination{
+  margin-top: 20px;
+  text-align: center;
+}
+.top-row{
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}.top-row label{
+  size: 14px;
+  margin-right: 15px;
+}.top-row .el-input{
+   margin-right: 15px;
+ }

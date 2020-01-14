@@ -1,0 +1,20 @@
+#panel{
+  height: 100%;
+  .sidebar-container{
+    width: 20%!important;
+
+  }
+  .item-sidebar{
+    height: 100%;
+  }
+  .el-aside{
+    flex-shrink: 0;
+
+    //display: block;
+    //position: absolute;
+    //left: 0;
+    //top: 60px;
+    //bottom: 0;
+    overflow-y: scroll;
+  }
+}
